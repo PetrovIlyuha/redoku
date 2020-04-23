@@ -9,7 +9,7 @@ export const Content = styled.div`
     #ff0000 100%
   );
   max-width: 500px;
-  height: 650px;
+  height: 700px;
   margin-top: 130px;
   display: flex;
   border-radius: 10px;
